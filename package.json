@@ -1,0 +1,19 @@
+{
+  "name": "js---internet-cafe-bot",
+  "version": "1.0.0",
+  "description": "The bot for discord server Internet Cafe Ro",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kroisssant/InternetCafeBot.git"
+  },
+  "author": "Kroissant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kroisssant/InternetCafeBot/issues"
+  },
+  "homepage": "https://github.com/kroisssant/InternetCafeBot#readme"
+}
